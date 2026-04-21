@@ -1,4 +1,6 @@
-## Olá!, Eu sou o Luigui (ou Lukz para facilitar)
+## Olá!, Eu sou o Luigui (ou Lukz para facilitar) 👋
+
+---
 
 ## 👤 ABOUT ME
 
