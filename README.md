@@ -1,16 +1,51 @@
-## Hi there 👋
+## Olá!, Eu sou o Luigui (ou Lukz para facilitar)
 
-<!--
-**luigUianotherONE/luigUIanotherONE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👤 ABOUT ME
 
-Here are some ideas to get you started:
+Estudante focado em Análise de Dados | Fintech | Automação de processos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho interesse em transformar dados brutos em informações úteis para tomada de decisão.
+
+## 🎯 OBJECTIVE
+
+Estágio ou jovem aprendiz em tecnologia, com foco em dados, automação e análise de mercado.
+
+---
+
+## 🧠 WHAT I DO?
+
+- Limpeza e organização de dados com Pandas
+- Análise exploratória de dados (EDA)
+- Criação de insights e correlações
+- Visualização de dados com Matplotlib
+
+---
+
+## 📁 PROJECTS
+
+### 📊 Employee Data Analysis
+
+- Limpeza de dados (emails, telefones, salários e departamentos)
+- Análise de métricas salariais
+- Comparação entre departamentos e gêneros
+- Correlação entre experiência e salário
+- Visualização de dados com gráficos
+
+---
+
+## 🛠️ TECHNOLOGIES
+
+Python | Pandas | Excel | Matplotlib | Git
+
+---
+
+## 🚀 Diferencial
+
+Transformo dados desorganizados em insights claros para tomada de decisão.
+
+---
+
+## 📫 Contato
+
+EMAIL: luigui.vbb01@gmail.com
+LINKEDIN: www.linkedin.com/in/luigui-veríssimo-333l
