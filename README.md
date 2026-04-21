@@ -6,6 +6,8 @@ Estudante focado em Análise de Dados | Fintech | Automação de processos.
 
 Tenho interesse em transformar dados brutos em informações úteis para tomada de decisão.
 
+---
+
 ## 🎯 OBJECTIVE
 
 Estágio ou jovem aprendiz em tecnologia, com foco em dados, automação e análise de mercado.
