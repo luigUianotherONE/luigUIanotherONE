@@ -51,5 +51,5 @@ Transformo dados desorganizados em insights claros para tomada de decisão.
 
 ## 📫 Contato
 
-EMAIL: luigui.vbb01@gmail.com
-LINKEDIN: www.linkedin.com/in/luigui-veríssimo-333l
+luigui.vbb01@gmail.com
+www.linkedin.com/in/luigui-veríssimo
